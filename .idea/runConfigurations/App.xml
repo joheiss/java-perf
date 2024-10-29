@@ -1,0 +1,17 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="App" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="com.jovisco.tutorial.App" />
+    <module name="perf-basics" />
+    <option name="PROGRAM_PARAMETERS" value="30000" />
+    <option name="VM_PARAMETERS" value="-XX:+PrintCompilation -XX:+PrintCodeCache -XX:+PrintStringTableStatistics" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.jovisco.tutorial.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
