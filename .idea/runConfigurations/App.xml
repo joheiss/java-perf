@@ -6,7 +6,7 @@
     <option name="VM_PARAMETERS" value="-XX:+PrintCompilation -XX:+PrintCodeCache -XX:+PrintStringTableStatistics" />
     <extension name="coverage">
       <pattern>
-        <option name="PATTERN" value="com.jovisco.tutorial.*" />
+        <option name="PATTERN" value="com.jovisco.tutorial.graalvm.*" />
         <option name="ENABLED" value="true" />
       </pattern>
     </extension>

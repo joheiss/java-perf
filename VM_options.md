@@ -130,5 +130,3 @@ The compiler threshold is configurable. It is used to determine when a piece of 
 ### VM Options for String De-duplication on G1 Garbage Collector
 
 -XX:+UseStringDeduplication
-
--XX:+UseStringDeduplication
